@@ -1,0 +1,13 @@
+https://ring.com/
+https://api.ring.com/
+https://fw.ring.com/
+https://app.ring.com/
+https://admin.ring.com/
+https://nw.ring.com/
+https://oauth.ring.com/
+https://billing.ring.com/
+prd-ring-web-us.prd.rings.solutions
+https://*.immedia-semi.com/
+https://*.blinkforhome.com/
+publicsafety.ring.com
+ 
